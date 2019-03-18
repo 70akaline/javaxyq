@@ -7,7 +7,8 @@ Pure java 2D turn-based RPG
 
 
 another site: http://javaxyq.googlecode.com
-(This repo is removed from google code due to it's deprecated
+
+(This repo is removed from google code due to it's deprecated)
 
 From Author (kylixs):
 纯java实现的《梦幻西游》风格的回合制RPG游戏
