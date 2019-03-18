@@ -1,17 +1,20 @@
 javaxyq
 =======
 
+This is a fork of javaxyq RPG engine
+
 Pure java 2D turn-based RPG
 
 
 another site: http://javaxyq.googlecode.com
+(This repo is removed from google code due to it's deprecated
 
-
+From Author (kylixs):
 纯java实现的《梦幻西游》风格的回合制RPG游戏
 
 JavaXYQ项目已经迁移到github，请移步至：
-Java版本：https://github.com/kylixs/javaxyq'>https://github.com/kylixs/javaxyq
-Android版本：https://github.com/kylixs/xyqlite'>https://github.com/kylixs/xyqlite
+Java版本：https://github.com/kylixs/javaxyq
+Android版本：https://github.com/kylixs/xyqlite
 
 
 JavaXYQ是使用纯java实现的一个2D回合制RPG游戏，大部分资源来自《梦幻西游》，类似梦幻西游玩法、风格。
@@ -70,7 +73,7 @@ JavaXYQ是使用纯java实现的一个2D回合制RPG游戏，大部分资源来�
 
 视频
 
-JavaXYQ导游 <a href='http://v.youku.com/v_playlist/f3936559o1p2.html' target='blank'>http://v.youku.com/v_playlist/f3936559o1p2.html</a>
+JavaXYQ导游 http://v.youku.com/v_playlist/f3936559o1p2.html
 
 
 
